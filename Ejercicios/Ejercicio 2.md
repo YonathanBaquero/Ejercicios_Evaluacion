@@ -1,4 +1,5 @@
 Algoritmo Registro_Transporte
+
     Definir codigo, totalGastado, totalViajes Como Entero
     
     totalGastado <- 0
