@@ -1,8 +1,11 @@
 Funcion puntos <- Calcular_Puntos(kilos)
+
     puntos <- kilos * 5
+
 FinFuncion
 
 Algoritmo Puntos_Reciclaje
+
     Definir num_Estudiantes, contador Como Entero
     Definir nombre Como Caracter
     Definir kilos, puntos Como Entero
